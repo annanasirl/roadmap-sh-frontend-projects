@@ -1,16 +1,48 @@
-# React + Vite
+# Toscana Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My first ever taste of how React works! A browser-based multiple-choice quiz about Tuscany, developed in Italian as part of the [Quiz App challenge](https://roadmap.sh/projects/quiz-app) from roadmap.sh.
 
-Currently, two official plugins are available:
+The quiz presents questions about the history, geography, culture and curiosities of Tuscany, with immediate feedback after each answer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Quiz entirely in Italian
+* Multiple-choice questions about Tuscany
+* Immediate feedback for each answer
+* Correct answer and explanation displayed after each question
+* Score tracking
+* Timer for each question
+* -1 point penalty when the time runs out
+* Final score and complete results
+* Option to restart the quiz
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies
 
-## Expanding the ESLint configuration
+* React
+* Vite
+* JavaScript
+* CSS
+* JSON
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Running the project
+
+Clone the repository and install the dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Then open the local address shown in the terminal.
+
+## Challenge
+
+This project was created as part of the **Quiz App** challenge on roadmap.sh.
+
+[View the challenge](https://roadmap.sh/projects/quiz-app)
+
