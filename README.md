@@ -14,6 +14,7 @@ The project is a browser-based multiple-choice quiz about **Tuscany**, developed
 
 * **Challenge:** [Quiz App](https://roadmap.sh/projects/quiz-app)
 * **Folder:** `quiz/`
+* **Demo** [here](https://annanasirl.github.io/roadmap-sh-frontend-projects/quiz/)
 * **Technologies:** React, JavaScript, Vite, CSS
 * **Language:** Italian
 
