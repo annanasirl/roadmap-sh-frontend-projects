@@ -1,0 +1,65 @@
+{
+  "quiz_title": "Toscana Quiz Generale",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Colonnata è una frazione del comune di...?",
+      "options": [
+        "Massa",
+        "Carrara",
+        "Lucca",
+        "Grosseto"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "A Colonnata fanno il famoso Lardo."
+    },
+    {
+      "id": 2,
+      "question": "Il porto più grande della Toscana si trova a...?",
+      "options": [
+        "Carrara",
+        "Pisa",
+        "Livorno",
+        "Grosseto"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Il traffico merci del porto di Livorno si attestava, nel 2018, a quasi 37 milioni di tonnellate all'anno"
+    },
+    {
+      "id": 3,
+      "question": "Quali sono le tre grandi università della Toscana?",
+      "options": [
+        "Siena, Firenze, Grosseto",
+        "Pisa, Firenze, Arezzo",
+        "Pisa, Firenze, Siena",
+        "Siena, Massa, Firenze"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "L'università di Pisa è stata fondata nel 1343 ed è l'Ateneo di Monicelli e Galilei."
+    },
+    {
+      "id": 4,
+      "question": "Da che lingua deriva il nome della regione?",
+      "options": [
+        "Greco",
+        "Francese",
+        "Non si sa",
+        "Latino"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "I Romani si riferivano al popolo della Toscana con i termini Tusci o Etrusci."
+    },
+    {
+      "id": 5,
+      "question": "In Toscana si può trovare...?",
+      "options": [
+        "Il Sacro Graal",
+        "La Sacra Sindone",
+        "L'Arca dell'Alleanza",
+        "La Spada nella Roccia"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "Una spada conficcata nella roccia si trova all'abbazia di San Galgano, comune di Chiusdino."
+    }
+  ]
+}
